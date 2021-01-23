@@ -1,14 +1,14 @@
 import React from 'react';
-import './App.css';
+// import './App.css';
 
-import Product from '../Product/Product'
+import Products from '../Products/Products'
 
 
 
 function App() {
   return (
     <div className="wrapper">
-      <Product/>
+      <Products />
     </div>
   );
 }
